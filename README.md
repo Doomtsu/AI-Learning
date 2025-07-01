@@ -1,13 +1,13 @@
 # AI-Learning
 
-This repository is for AI learning projects and experiments.
+## Getting Started
 
-## Setup Instructions
-
-1. **Clone the repository**
+1. **Clone this repository**
 
    ```bash
    git clone https://github.com/your-username/AI-Learning.git
-   cd AI-Learning
    ```
 
+2. **Open the folder in VS Code or Cursor**
+   - Launch VS Code or Cursor.
+   - Click on "File" > "Open Folder..." and select the `AI-Learning` folder you just cloned.
