@@ -11,3 +11,4 @@
 2. **Open the folder in VS Code or Cursor**
    - Launch VS Code or Cursor.
    - Click on "File" > "Open Folder..." and select the `AI-Learning` folder you just cloned.
+   - Hi my name is Aum!
