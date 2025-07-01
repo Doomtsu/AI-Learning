@@ -12,3 +12,8 @@
    - Launch VS Code or Cursor.
    - Click on "File" > "Open Folder..." and select the `AI-Learning` folder you just cloned.
    - Hi my name is Aum!
+   
+   - To print "Hello, World!" in Python, open a terminal in the `AI-Learning` folder and run:
+     ```python
+     print("Hello, World!")
+     ```
